@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <string translatable="true" name="sheep_1"><![CDATA[mouton]]></string>
+  <string translatable="true" name="giraffe_2"><![CDATA[girafe]]></string>
+  <string translatable="true" name="elephant_3"><![CDATA[éléphant]]></string>
+  <string translatable="true" name="monday_4"><![CDATA[lundi]]></string>
+  <string translatable="true" name="tuesday_5"><![CDATA[mardi]]></string>
+</resources>
