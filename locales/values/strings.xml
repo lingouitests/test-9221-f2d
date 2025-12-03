@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
   <string name="app_name">Can you see?</string>
-  <string name="sheep_1" translatable="true"><![CDATA[sheep]]></string>
-  <string name="giraffe_2" translatable="true"><![CDATA[giraffe]]></string>
-  <string name="elephant_3" translatable="true"><![CDATA[elephant]]></string>
-  <string name="monday_4" translatable="true"><![CDATA[monday]]></string>
-  <string name="tuesday_5" translatable="true"><![CDATA[tuesday]]></string>
+  <string translatable="true" name="sheep_1"><![CDATA[sheep]]></string>
+  <string translatable="true" name="giraffe_2"><![CDATA[giraffe]]></string>
+  <string translatable="true" name="elephant_3"><![CDATA[elephant]]></string>
+  <string translatable="true" name="monday_4"><![CDATA[monday]]></string>
+  <string translatable="true" name="tuesday_5"><![CDATA[tuesday]]></string>
 </resources>
